@@ -1,0 +1,28 @@
+.header{
+    background-color: midnightblue;
+    color: honeydew;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.6rem;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+}
+
+.GRID{
+    background-color: midnightblue;
+    color:honeydew;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ending{
+    background-color: navy;
+    color: beige;
+    display: flex;
+    justify-content: space-between;
+}
